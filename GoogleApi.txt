@@ -1,0 +1,50 @@
+
+
+|___________________________________________________________________________________________________________________________________________________________________________________________
+|
+|
+|									|GETTING START WITH GOOGLE API|
+|                                           		    	        _______________________________
+|
+|
+| Step 1 :: Create and Setup a Google Project
+|	~ https://console.cloud.google.com/
+|	~ Create New Project 
+|
+| Step 2 :: Create OAuth page
+|	~ https://console.cloud.google.com/apis/credentials/consent/ 
+|	~ User Type :: External Create
+|
+| Step 3 :: Enable APIs
+|	~ https://console.cloud.google.com/apis/library/
+|	~ https://console.cloud.google.com/apis/library/docs.googleapis.com/ 
+|	~ Google Docs API 
+|
+| Step 4 :: Download Client file(JSON)
+|	~ https://console.cloud.google.com/apis/credentials/
+|	~ Step 1 :: Create Credentials
+|	~ Step 2 :: OAuth Client ID
+|	~ Step 3 :: Application Type: Desktop app
+|
+| step 5 :: Add User
+|	~ https://console.cloud.google.com/apis/credentials/consent/
+|
+|___________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+|___________________________________________________________________________________________________________________________________________________________________________________________
+|
+|
+|							    	   |Reference Urls|
+|                                             			   ________________
+|
+|
+| Video Reference Link :: https://www.youtube.com/watch?v=eO-7RIMTjOA
+| Source Code Link :: https://learndataanalysis.org/source-code-generate-file-sharing-url-with-google-drive-api-in-python/
+| Google.py File Link :: https://learndataanalysis.org/google-py-file-source-code/
+| Mime Types Link :: https://learndataanalysis.org/commonly-used-mime-types/
+| Quickstart Link :: https://developers.google.com/drive/api/quickstart/python|
+|___________________________________________________________________________________________________________________________________________________________________________________________
+
+
